@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/aistatistici/aistatistics-backend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/aistatistici/aistatistics-frontend
+[submodule "ml"]
+	path = ml
+	url = https://github.com/aistatistici/aistatistics-ml
